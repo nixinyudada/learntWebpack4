@@ -1,0 +1,16 @@
+body{
+    background: darkcyan;
+}
+
+b{
+    color: blue;
+    width: 100px;
+    height: 100px;
+    display: block;
+    transform: rotateZ(40deg);
+}
+
+.cssText{
+    color: red;
+
+}
